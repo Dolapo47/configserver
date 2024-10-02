@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Production APIs "
+  contactDetails:
+    name: "Jane Doe - Product Owner"
+    email: "Jane@eazybank.com"
+  onCallSupport:
+    - (777) 777-1234
+    - (777) 945-1345
